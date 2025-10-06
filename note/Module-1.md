@@ -48,10 +48,10 @@
 	16. Organized Hackers
 	
 ### Ethical Hacking Concepts
-What is Ethical Hacking? <br> 
-Why Ethical Hacking is Necessary <br> 
-Scope and Limitations of Ethical Hacking <br>
-Skills of an Ethical Hacker <br>
+- What is Ethical Hacking?  
+- Why Ethical Hacking is Necessary  
+- Scope and Limitations of Ethical Hacking
+- Skills of an Ethical Hacker 
 
 
 
