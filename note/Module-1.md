@@ -21,6 +21,7 @@
 	- Something you know: Passwords or passphrases
 	- Something you have: Tokens, memory cards, smart cards
 	- Something you are: Biometrics, measurable characteristics
+	- Single factor authentication, Multi-factor authentication
 
 5. Non-Repudiation
 
