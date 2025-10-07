@@ -13,6 +13,9 @@
 	- Baseline to compare integrity of data or systems state
 
 3. Availability
+	- Data or information and systems are available to authorized users when as when required.
+	- Criticality
+
 4. Authenticity
 5. Non-Repudiation
 
