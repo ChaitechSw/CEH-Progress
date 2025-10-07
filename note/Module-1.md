@@ -1,22 +1,27 @@
 ## Module 1 : Introduction to ethical hacking
 
 ### Elements of Information Security
-1. Confidentiality
+1. **Confidentiality**
 	- Personally Identifiable Information (PII)
 	- Protected health information (PHI)
 	- Sensitivity
 
-2. Integrity
+2. **Integrity**
 	- Data Integrity
 	- Information Sensitivity
 	- System Integrity
 	- Baseline to compare integrity of data or systems state
 
-3. Availability
+3. **Availability**
 	- Data or information and systems are available to authorized users when as when required.
 	- Criticality
 
-4. Authenticity
+4. **Authenticity**
+	- Validating user identity
+	- Something you know: Passwords or passphrases
+	- Something you have: Tokens, memory cards, smart cards
+	- Something you are: Biometrics, measurable characteristics
+
 5. Non-Repudiation
 
 ### Information Security Attacks: Motives, Goals, and Objectives
