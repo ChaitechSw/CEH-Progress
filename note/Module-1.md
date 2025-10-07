@@ -10,7 +10,7 @@
 	- Data Integrity
 	- Information Sensitivity
 	- System Integrity
-	- Baseline to compare integrity
+	- Baseline to compare integrity of data or systems state
 
 3. Availability
 4. Authenticity
