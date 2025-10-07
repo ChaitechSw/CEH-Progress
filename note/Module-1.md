@@ -7,6 +7,11 @@
 	- Sensitivity
 
 2. Integrity
+	- Data Integrity
+	- Information Sensitivity
+	- System Integrity
+	- Baseline to compare integrity
+
 3. Availability
 4. Authenticity
 5. Non-Repudiation
