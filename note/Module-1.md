@@ -2,6 +2,10 @@
 
 ### Elements of Information Security
 1. Confidentiality
+	- Personally Identifiable Information (PII)
+	- Protected health information (PHI)
+	- Sensitivity
+
 2. Integrity
 3. Availability
 4. Authenticity
@@ -51,7 +55,14 @@
 - What is Ethical Hacking?  
 - Why Ethical Hacking is Necessary  
 - Scope and Limitations of Ethical Hacking
-- Skills of an Ethical Hacker 
+- Skills of an Ethical Hacker
+- AI-Driven Ethical Hacking 
+- Benefits 
+- Applications of AI-Driven Ethical Hacking 
+- How AI-Driven Ethical Hacking Helps Ethical Hacker?
+- Myth: AI will Replace Ethical Hackers 
+
+ 
 
 
 
