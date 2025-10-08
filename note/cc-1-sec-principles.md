@@ -41,4 +41,15 @@
 	- Vulnerability
 	- Threat
 
+#### Risk Identification
+	- Identify risk to communicate it clearly and protect against it
+	- Employees at all levels of the organization are responsible for identifying risk
+
+#### Risk assessment
+	- Identify
+	- Estimating
+	- Prioritizing
+
+
+
 
