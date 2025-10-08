@@ -28,6 +28,7 @@
 
 6. **Privacy**
 	- General Data Protection Regulation (GDPR, EU)
+	- Health Insurance, Portability and Accountability Act (HIPAA, USA)
 
 ### Information Security Attacks: Motives, Goals, and Objectives
 ### Attacks = Motive (Goal) + Method (TTP) + Vulnerability
