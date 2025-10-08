@@ -23,7 +23,8 @@
 	- Something you are: Biometrics, measurable characteristics
 	- Single factor authentication, Multi-factor authentication
 
-5. Non-Repudiation
+5. **Non-Repudiation**
+	- Protection against false denying
 
 ### Information Security Attacks: Motives, Goals, and Objectives
 ### Attacks = Motive (Goal) + Method (TTP) + Vulnerability
