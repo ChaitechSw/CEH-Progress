@@ -26,6 +26,9 @@
 5. **Non-Repudiation**
 	- Protection against false denying
 
+6. **Privacy**
+	- General Data Protection Regulation (GDPR, EU)
+
 ### Information Security Attacks: Motives, Goals, and Objectives
 ### Attacks = Motive (Goal) + Method (TTP) + Vulnerability
 ### Tactics, Techniques and Procedures (TTPs)
