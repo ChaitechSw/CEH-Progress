@@ -87,3 +87,5 @@
 
 ### Risk Management
 	- Low impact-low probability, High impact-low probability, low impact-high probability, high impact-high probability
+	- Vulnerability and threat mitigation
+
