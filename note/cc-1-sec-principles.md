@@ -47,9 +47,22 @@
 
 #### Risk assessment
 	- Identify
-	- Estimating
-	- Prioritizing
+	- Estimate
+	- Prioritize
 
+#### Risk Treatment
+	- Avoidance (usually its a high probability, high impact)
+	- Acceptance (usually its a low probability, low impact)
+	- Mitigation (most used approach for risk treatment)
+	- Transfer(insurance policy)
+
+#### Risk Priorities
+	- Qualitative risk analysis
+	- Quantitative risk analysis
+	- Risk Matrix
+	- Decision based on likelihood (probability) and impact 
+
+#### Risk 
 
 
 
