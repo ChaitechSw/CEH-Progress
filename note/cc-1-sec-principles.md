@@ -30,39 +30,47 @@
 	- General Data Protection Regulation (GDPR, EU)
 	- Health Insurance, Portability and Accountability Act (HIPAA, USA)
 
-### Risk Management
-
+**Risk Management**
 	- Low impact-low probability, High impact-low probability, low impact-high probability, high impact-high probability
 	- Vulnerability and threat mitigation
 	
-#### Risk Management Terminology
-	
+**Risk Management Terminology**
 	- An Asset
 	- Vulnerability
 	- Threat
 
-#### Risk Identification
+**Risk Identification**
 	- Identify risk to communicate it clearly and protect against it
 	- Employees at all levels of the organization are responsible for identifying risk
 
-#### Risk assessment
+**Risk assessment**
 	- Identify
 	- Estimate
 	- Prioritize
 
-#### Risk Treatment
+**Risk Treatment**
 	- Avoidance (usually its a high probability, high impact)
 	- Acceptance (usually its a low probability, low impact)
 	- Mitigation (most used approach for risk treatment)
 	- Transfer(insurance policy)
 
-#### Risk Priorities
+**Risk Priorities**
 	- Qualitative risk analysis
 	- Quantitative risk analysis
 	- Risk Matrix
 	- Decision based on likelihood (probability) and impact 
 
-#### Risk 
+**Risk Tolerance**
+	- Depends on Organization and senior management's attitude towards Risk
+	- Risk tolerance drives decision making
+	
+**Security Controls**
+	- Physical
+	- Technical
+	- Administrative
+
+
+
 
 
 
