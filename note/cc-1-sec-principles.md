@@ -71,8 +71,14 @@
 3. **Administrative**
 
 ## Governance Elements	
-1. **Regulations**	
+1. **Regulations and Laws**
+	- HIPAA
+	- GDPR	
 2. **Standards**
+	- International Organization for Standardization (ISO) 
+	- National Institute of Standards and Technology (NIST)
+	- Internet Engineering Task Force (IETF)
+	- Institute of Electrical and Electronics Engineers (IEEE)
 3. **Policies**
 4. **Procedures**
 
