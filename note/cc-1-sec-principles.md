@@ -80,7 +80,17 @@
 	- Internet Engineering Task Force (IETF)
 	- Institute of Electrical and Electronics Engineers (IEEE)
 3. **Policies**
+	- Establishes context and sets out strategic direction and priorities.
+	- Are written at many levels in an organization
+	- Are statements of intent and direction
+	- Are carried out into step-by-step instructions and procedures
 4. **Procedures**
+	- Are repeatable activities/steps necessary to accomplish a specific task or a set of tasks.
+	
+## Professional Code of Conduct
+	- ISC2 code of ethics preamble
+	- ISC2 code of ethics Canons
+	- 
 
 
 
