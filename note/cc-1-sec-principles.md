@@ -88,9 +88,8 @@
 	- Are repeatable activities/steps necessary to accomplish a specific task or a set of tasks.
 	
 ## Professional Code of Conduct
-	- ISC2 code of ethics preamble
-	- ISC2 code of ethics Canons
-	- 
+1. ISC2 code of ethics preamble
+2. ISC2 code of ethics Canons 
 
 
 
