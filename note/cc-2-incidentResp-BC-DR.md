@@ -52,5 +52,5 @@
 	- Identifcation of evidence that may need retention
 	- Documentation of lessons learned
 	- Conduct a retrospective of all four stages i.e., preparation, detection and analysis, containment, eradication and recovery, post-incident activity.
-		- preparation
+
 
