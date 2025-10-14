@@ -23,5 +23,10 @@
 8. Zero Day
 	- Unknown vulnerability which could not be detected or prevented by patterns, signatures or methods.
 
+### The Goal of Incidence Response
+1. Priority of IR is to protect life, health and safety. Safety comes first.
+2. Primary goal is preparation (crisis management) which requires having a policy and response plan.
+3. Incidence response plan comes under Business Continuity Management (BCM)
+4. 
 
 
