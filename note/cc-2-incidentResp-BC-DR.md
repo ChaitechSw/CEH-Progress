@@ -64,4 +64,6 @@
 3. Many organizations have dedicated IR teams comprised of computer incident response teams (CIRTs) or computer security incident response teams (CSIRTs).
 4. IR team responsibilites when incident occurs are as follows:
 	- Determining the amount and scope of damage caused by the incident.
-	- 
+	- Determining whether any confidential information was compromised during the incident. 
+	- Implemention of any necessary recovery procedures to restore security and recover from incident-related damage.
+	- Supervising the implementation of any additional security measures necessary to improve security and prevent recurrence of the incident.
