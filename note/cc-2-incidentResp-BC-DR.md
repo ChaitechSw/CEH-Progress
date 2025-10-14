@@ -53,4 +53,15 @@
 	- Documentation of lessons learned
 	- Conduct a retrospective of all four stages i.e., preparation, detection and analysis, containment, eradication and recovery, post-incident activity.
 
-
+### Incident Response Team
+1. First Responders (IT professionals) are like medical first responders (eg., nurses)
+2. IR team is comprised of :
+	- Representatives of senior management
+	- Info security professionals
+	- Legal representatives
+	- Public communications/affairs representatives
+	- Engineering representatives (system and network)
+3. Many organizations have dedicated IR teams comprised of computer incident response teams (CIRTs) or computer security incident response teams (CSIRTs).
+4. IR team responsibilites when incident occurs are as follows:
+	- Determining the amount and scope of damage caused by the incident.
+	- 
