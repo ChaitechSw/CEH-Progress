@@ -67,3 +67,18 @@
 	- Determining whether any confidential information was compromised during the incident. 
 	- Implemention of any necessary recovery procedures to restore security and recover from incident-related damage.
 	- Supervising the implementation of any additional security measures necessary to improve security and prevent recurrence of the incident.
+
+### Business Continuity	
+1. Intent
+	- To sustain business operations while recovering from a remarkable/consequential disruption.
+2. Importance
+	- To maintain the business
+3. Key part
+	- Communication, multiple contact methodologies, backup numbers.
+
+### Disaster Recovery
+1. Intent
+	- restoring the IT and communication service/systems for organization during disruption and restoration of normal services.
+	- disaster recovery plan (DRP)
+
+### Business continuity planning is about maintaining critical business functions, disaster recovery planning is about restoring IT and communications back to full operations after a disruption.
