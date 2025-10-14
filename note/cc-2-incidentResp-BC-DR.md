@@ -27,6 +27,30 @@
 1. Priority of IR is to protect life, health and safety. Safety comes first.
 2. Primary goal is preparation (crisis management) which requires having a policy and response plan.
 3. Incidence response plan comes under Business Continuity Management (BCM)
-4. 
 
+### Incident Response plan
+1. Preparation
+	- Developing a policy approved by management.
+	- Identifying critical data and systems and any single points of failure.
+	- Incident response training to staff
+	- Incident response team implementation 
+	- First response i.e., incidence identification practice.
+	- Roles and responsibilities identification
+	- Coordination of communication between stakeholders planning
+	- Considering the possibility that a primary method of communication may not be available.
+2. Detection and analysis
+	- Monitoring all possible attack vectors
+	- Analyzing the incident using known data and threat intelligence
+	- Incident response prioritization
+	- Standardization of incident documentation
+3. Containment
+	- Evidence gathering 
+	- Choosing an appropriate containment strategy
+	- Identification of the attacker
+	- Isolation of attack
+4. Post-Incident Activity
+	- Identifcation of evidence that may need retention
+	- Documentation of lessons learned
+	- Conduct a retrospective of all four stages i.e., preparation, detection and analysis, containment, eradication and recovery, post-incident activity.
+		- preparation
 
