@@ -17,4 +17,6 @@
 4. Least Priviledge
 	- Principal: Each user is granted access to only the items they need and nothing further.
 	- The more critical information a person has access to, the greater the security should be around that access.
+5. Privileged access management (PAM)
+	- PAM includes role-based specific subsets of privileges which are only activated in real time when the user identity is requesting the use of resource or service.
 
