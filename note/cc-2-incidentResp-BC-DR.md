@@ -75,10 +75,24 @@
 	- To maintain the business
 3. Key part
 	- Communication, multiple contact methodologies, backup numbers.
+4. Components
+	- List of the BCP team members, including multiple contact methods and backup members
+	- Immediate response procedures and checklists (security and safety procedures, fire suppression procedures, notification of appropriate emergency-response agencies, etc.)
+	- Notification systems and call trees for alerting personnel that the BCP is being enacted
+	- Guidance for management, including designation of authority for specific managers
+	- How/when to enact the plan
+	- Contact numbers for critical members of the supply chain (vendors, customers, possible external emergency providers, third-party partners)
 
 ### Disaster Recovery
 1. Intent
 	- restoring the IT and communication service/systems for organization during disruption and restoration of normal services.
 	- disaster recovery plan (DRP)
+2. Components
+	- Executive summary providing a high-level overview of the plan
+	- Department-specific plans
+	- Technical guides for IT personnel responsible for implementing and maintaining critical backup systems
+	- Full copies of the plan for critical disaster recovery team members
 
 ### Business continuity planning is about maintaining critical business functions, disaster recovery planning is about restoring IT and communications back to full operations after a disruption.
+
+
