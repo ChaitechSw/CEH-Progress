@@ -44,4 +44,8 @@
 ### Authorized vs unauthorized personnel
 1. Authentication, Authorization
 	- Authentication is confirming the identity of a user while authorization refers to giving access to objects depending based on rules set to allow the user to complete the action.
+2. User provisioning
+	- A new employee
+	- Change of position
+	- Separation of employment
 
