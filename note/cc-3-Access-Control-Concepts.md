@@ -22,3 +22,9 @@
 1. PAM includes:
 	- role-based specific subsets of privileges which are only activated in real time when the user identity is requesting the use of resource or service.
 ### Privileged Accounts
+1. Classes of users with elevated/privileged accounts include:
+	- System admins
+	- IT support
+	- Security analysts
+ 	- Supervisors
+	- Leaderships
