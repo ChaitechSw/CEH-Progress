@@ -28,3 +28,10 @@
 	- Security analysts
  	- Supervisors
 	- Leaderships
+2. Measures for monitoring the possibility of elevated risks:
+	- More extensive and detailed logging than regular user accounts
+	- As compared to regular user accounts the access control for elevated users should be more stringent (eg. MFA)
+	- Trust verification should be deeper for privileged users should be deeper than that of regular users. (eg. Background check, NDA)
+	- More auditing than regular user accounts.
+### Seperation of duties
+
