@@ -34,4 +34,10 @@
 	- Trust verification should be deeper for privileged users should be deeper than that of regular users. (eg. Background check, NDA)
 	- More auditing than regular user accounts.
 ### Seperation of duties
+1. Seperation of duties
+	- No one person should control an entire high-risk transaction from start to finish.
+	- Collusion is a fraud committed by two/more individuals willfully working together to bypass the seperation of duties.
+	- Some personnel know one of the part of a security control (eg. a lock) and some know the other, but no one individually knows both of the parts. This is called as dual control.
+2. Two-person integrity
+	- Two person rule is a security control that requires minimum of two people to be in an area together, making it impossible for a person to be in an area alone.
 
