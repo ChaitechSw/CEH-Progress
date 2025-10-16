@@ -41,3 +41,7 @@
 2. Two-person integrity
 	- Two person rule is a security control that requires minimum of two people to be in an area together, making it impossible for a person to be in an area alone.
 
+### Authorized vs unauthorized personnel
+1. Authentication, Authorization
+	- Authentication is confirming the identity of a user while authorization refers to giving access to objects depending based on rules set to allow the user to complete the action.
+
