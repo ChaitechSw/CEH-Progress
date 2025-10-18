@@ -49,3 +49,9 @@
 	- Change of position
 	- Separation of employment
 
+### Physical Security Control
+1. Protection for 
+	- most important assets i.e., people
+	- followed by other assets.
+
+
